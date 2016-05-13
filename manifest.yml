@@ -1,0 +1,8 @@
+applications:
+- disk_quota: 1024M
+  host: scaleSSO-TOR0815
+  name: scaleSSO-TOR0815
+  path: .
+  domain: mybluemix.net
+  instances: 2
+  memory: 256M
